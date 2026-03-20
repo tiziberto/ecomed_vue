@@ -1,0 +1,1 @@
+import{C as e,E as t,K as n,m as r,ot as i,u as a}from"./runtime-core.esm-bundler-C4KRkdh6.js";import{n as o}from"./createLucideIcon-tQrLSn-c.js";var s=r({__name:`CardDescription`,props:{class:{}},setup(r){return(r,s)=>(e(),a(`p`,{class:i(n(o)(`text-sm text-muted-foreground`,r.$props.class))},[t(r.$slots,`default`)],2))}});export{s as t};
